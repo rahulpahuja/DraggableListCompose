@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DraggableViewAndroid</string>
+    <string name="title_activity_draggable_item">DraggableItemActivity</string>
+</resources>
